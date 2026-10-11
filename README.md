@@ -113,3 +113,5 @@ GitHub Pages 部署（3 步）
 本地预览
 python3 -m http.server 8899
 # 打开 http://localhost:8899
+测试1：https://a35ea37ac58867e39.app.workbuddy.host/
+测试2：https://www.xpyan.com/tuijian/video/localStorage.html
